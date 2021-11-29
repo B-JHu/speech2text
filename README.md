@@ -69,7 +69,7 @@ Specify the language you are dictating in (default: 'de-DE'). Must be specified 
 If this flag is set, the recording of your voice will be saved to a .wav-file (default: False).
 ```
 
-The .wav-file will have the current datetime as its filename, and will be saved into a folder called 'voice_recordings'.
+The .wav-file will have the datetime of the recording as its filename.
 
 ## License
 
